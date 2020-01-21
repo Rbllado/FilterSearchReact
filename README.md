@@ -13,10 +13,10 @@ When you are writing the name of the food, it is filtering all foods that contai
 
 ## Installation
 
-cd name of the folder
-cd starter-code
-npm i
-npm run start
+1. cd name of the folder
+2. cd starter-code
+3. npm i
+4. npm run start
 
 ## Running Locally
 
